@@ -1,0 +1,18 @@
+Name, FQDN, IP, Disk, Disk Path, Capacity, FreeSpace 
+LS-DomainController,FQDN: ls.akdov.local,IPAdress: 192.168.1.146,DiskID: 0,Disk Path: C:\,Disk Capacity: 7 GB,Disk Free Space: 1 GB
+LS-DomainController, , ,DiskID: 1,Disk Path: E:\,Disk Capacity: 59 GB,Disk Free Space: 2 GB
+VC4.1,FQDN: VC41.akdov.local,IPAdress: 192.168.1.91,DiskID: 0,Disk Path: C:\,Disk Capacity: 39 GB,Disk Free Space: 26 GB : Needs Resize
+BusinessView,FQDN: BusinessView.akdov.local,IPAdress: 192.168.1.81,DiskID: 0,Disk Path: C:\,Disk Capacity: 9 GB,Disk Free Space: 4 GB
+Backup5,FQDN: Backup5.akdov.local,IPAdress: 192.168.1.82,DiskID: 0,Disk Path: C:\,Disk Capacity: 9 GB,Disk Free Space: 0 GB
+Backup5, , ,DiskID: 1,Disk Path: E:\,Disk Capacity: 99 GB,Disk Free Space: 82 GB : Needs Resize
+CTX-SGS2,FQDN: ukveeamdemo.dyndns.org,IPAdress: 192.168.1.22,DiskID: 0,Disk Path: C:\,Disk Capacity: 9 GB,Disk Free Space: 5 GB : Needs Resize
+Exc2003,FQDN: Exc2003.akdov.local,IPAdress: 192.168.1.63,DiskID: 0,Disk Path: C:\,Disk Capacity: 9 GB,Disk Free Space: 4 GB
+Reporter4,FQDN: Reporter4.akdov.local,IPAdress: 192.168.1.80,DiskID: 0,Disk Path: C:\,Disk Capacity: 39 GB,Disk Free Space: 27 GB : Needs Resize
+W7AdminVDI,FQDN: W7AdminVDI.virtualplanet.local,IPAdress: 192.168.1.154,DiskID: 0,Disk Path: C:\,Disk Capacity: 29 GB,Disk Free Space: 20 GB : Needs Resize
+RickyVDI,FQDN: RickyVDI.akdov.local,IPAdress: 192.168.1.142,DiskID: 0,Disk Path: C:\,Disk Capacity: 19 GB,Disk Free Space: 12 GB : Needs Resize
+Herc-Test,FQDN: WebSrv1.akdov.local,IPAdress: ,DiskID: 0,Disk Path: C:\,Disk Capacity: 9 GB,Disk Free Space: 5 GB : Needs Resize
+Mon5-EDU,FQDN: Mon5-EDU.akdov.local,IPAdress: 192.168.1.88,DiskID: 0,Disk Path: C:\,Disk Capacity: 9 GB,Disk Free Space: 3 GB
+backup1a,FQDN: backup1a.akdov.local,IPAdress: 192.168.1.159,DiskID: 0,Disk Path: C:\,Disk Capacity: 19 GB,Disk Free Space: 4 GB
+win2003,FQDN: win2003.akdov.local,IPAdress: 192.168.1.155,DiskID: 0,Disk Path: C:\,Disk Capacity: 4 GB,Disk Free Space: 1 GB
+VDIDC,FQDN: XenDesktop.akdov.local,IPAdress: 192.168.1.28,DiskID: 0,Disk Path: C:\,Disk Capacity: 9 GB,Disk Free Space: 5 GB : Needs Resize
+Xendesktop,FQDN: xendesktop.akdov.local,IPAdress: 192.168.1.28,DiskID: 0,Disk Path: C:\,Disk Capacity: 29 GB,Disk Free Space: 19 GB : Needs Resize

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<jobs>
+  <Policy>
+    <domain>demo</domain>
+    <user>administrator</user>
+  </Policy>
+</jobs>

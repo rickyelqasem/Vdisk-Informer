@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+  <VM moref="vm-16">
+
+    <VMName>VC51</VMName>
+
+    <FQDN>vc51.demo.local</FQDN>
+
+    <IP>192.168.1.90</IP>
+
+    <Disk DiskID="Disk #0, Partition #0" Offset="1048576" />
+
+    <Disk DiskID="Disk #0, Partition #1" Offset="105906176" />
+
+  </VM>
+
+</root>

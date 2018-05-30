@@ -1,0 +1,30 @@
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\bin\Debug\vDisk Informer 1.2.exe
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\bin\Debug\vDisk Informer 1.2.pdb
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.Form1.resources
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.Properties.Resources.resources
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.exe
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.pdb
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.AboutBox1.resources
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.VMwarelogin.resources
+S:\devwork\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.ScanOptions.resources
+C:\Users\Administrator\Desktop\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.exe
+C:\Users\Administrator\Desktop\vdisk informer\vDisk Informer 1.2\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.pdb
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.AboutBox1.resources
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.Form1.resources
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.Properties.Resources.resources
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.ScanOptions.resources
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk_Informer_1._2.VMwarelogin.resources
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\bin\Debug\vDisk Informer 1.2.5.exe
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\bin\Debug\vDisk Informer 1.2.5.pdb
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.5.exe
+S:\devwork\vdisk informer\vDisk Informer 1.3\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.5.pdb
+S:\devwork\vdisk informer\vDisk Informer 1.2.5\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.5.exe
+S:\devwork\vdisk informer\vDisk Informer 1.2.5\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.5.pdb
+J:\OneDrive\devwork\vdisk informer\vDisk Informer 1.2.5\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.5.exe
+J:\OneDrive\devwork\vdisk informer\vDisk Informer 1.2.5\vDisk Informer 1.2\vDisk Informer 1.2\obj\x86\Debug\vDisk Informer 1.2.5.pdb

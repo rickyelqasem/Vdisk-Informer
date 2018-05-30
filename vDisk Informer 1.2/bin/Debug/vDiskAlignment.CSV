@@ -1,0 +1,29 @@
+Name, FQDN, IP, Disk, Partition 
+LS-DomainController,FQDN: ls.akdov.local,IPAdress: 192.168.1.146,Disk #0, Partition #0: Offset = 31.5KB - Check Alignment
+LS-DomainController, , ,Disk #1, Partition #0: Offset = 31.5KB - Check Alignment
+VC4.1,FQDN: VC41.akdov.local,IPAdress: 192.168.1.91,Disk #0, Partition #0: Offset = 256KB - Alignment is good
+VC4.1, , ,Disk #0, Partition #1: Offset = 25856KB - Alignment is good
+WebPosition
+RickyXPLite
+BusinessView,FQDN: BusinessView.akdov.local,IPAdress: 192.168.1.81,Disk #0, Partition #0: Offset = 31.5KB - Check Alignment
+SashaVDI
+Backup5,FQDN: Backup5.akdov.local,IPAdress: 192.168.1.82,Disk #0, Partition #0: Offset = 31.5KB - Check Alignment
+Backup5, , ,Disk #1, Partition #0: Offset = 31.5KB - Check Alignment
+Exc2003,FQDN: Exc2003.akdov.local,IPAdress: 192.168.1.63,Disk #0, Partition #0: Offset = 31.5KB - Check Alignment
+NFS-Server
+VeeamServer
+RickyXP
+OlgaVDI
+Reporter4,FQDN: Reporter4.akdov.local,IPAdress: 192.168.1.80,Disk #0, Partition #0: Offset = 256KB - Alignment is good
+Reporter4, , ,Disk #0, Partition #1: Offset = 25856KB - Alignment is good
+RickyVDI,FQDN: RickyVDI.akdov.local,IPAdress: 192.168.1.142,Disk #0, Partition #0: Offset = 31.5KB - Check Alignment
+PolinaVDI
+Ubunto+Kw-JQ-2fMYSQL
+oracle
+Mon5-EDU,FQDN: Mon5-EDU.akdov.local,IPAdress: 192.168.1.88,Disk #0, Partition #0: Offset = 31.5KB - Check Alignment
+vLab1
+vLab2
+backup1a,FQDN: backup1a.akdov.local,IPAdress: 192.168.1.159,Disk #0, Partition #0: Offset = 31.5KB - Check Alignment
+VDI-Temp2
+Xendesktop,FQDN: xendesktop.akdov.local,IPAdress: 192.168.1.28,Disk #0, Partition #0: Offset = 256KB - Alignment is good
+Xendesktop, , ,Disk #0, Partition #1: Offset = 25856KB - Alignment is good

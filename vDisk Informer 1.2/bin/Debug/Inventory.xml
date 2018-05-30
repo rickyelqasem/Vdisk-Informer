@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<vcenter>
+
+  <Datacenter moref="datacenter-2">
+
+    <Folder moref="group-h4">
+
+      <Cluster moref="domain-c17">
+
+        <ClusterName>Resource-Cluster</ClusterName>
+
+        <HostCount>2</HostCount>
+
+        <Host moref="host-19">
+
+          <HostName>vcd-srv72.demo.local</HostName>
+
+        </Host>
+
+        <Host moref="host-20">
+
+          <HostName>vcd-srv74.demo.local</HostName>
+
+          <VM moref="vm-1044">
+
+            <VMName>VDI1</VMName>
+
+          </VM>
+
+          <VM moref="vm-845">
+
+            <VMName>Mirage4.23</VMName>
+
+          </VM>
+
+          <VM moref="vm-966">
+
+            <Vdisk diskcount="10" />
+
+            <Disk ID="0" Path="/" Capacity="41077317632" Freespace="39107440640" />
+
+            <Disk ID="1" Path="/boot" Capacity="134029312" Freespace="112473088" />
+
+            <Disk ID="2" Path="/opt/zimbra" Capacity="10564722688" Freespace="9350402048" />
+
+            <Disk ID="3" Path="/opt/zimbra/store" Capacity="10564722688" Freespace="10406805504" />
+
+            <Disk ID="4" Path="/opt/zimbra/db" Capacity="31702642688" Freespace="30449676288" />
+
+            <Disk ID="5" Path="/opt/zimbra/index" Capacity="10564722688" Freespace="10406780928" />
+
+            <Disk ID="6" Path="/opt/zimbra/redolog" Capacity="12678512640" Freespace="12512735232" />
+
+            <Disk ID="7" Path="/opt/zimbra/log" Capacity="10564722688" Freespace="10392387584" />
+
+            <Disk ID="8" Path="/opt/zimbra/backup" Capacity="21133651968" Freespace="20933840896" />
+
+            <Disk ID="9" Path="/opt/zimbra/data" Capacity="31702642688" Freespace="31521300480" />
+
+            <GuestState>toolsOld</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>data-va.demo.local</FQDN>
+
+            <IPaddress>192.168.50.14</IPaddress>
+
+            <VMName>data-va</VMName>
+
+          </VM>
+
+          <VM moref="vm-1043">
+
+            <Vdisk diskcount="2" />
+
+            <Disk ID="0" Path="E:\" Capacity="4292546560" Freespace="3168518144" />
+
+            <Disk ID="1" Path="C:\" Capacity="34252779520" Freespace="23516504064" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>VDI3.demo.local</FQDN>
+
+            <IPaddress>192.168.2.14</IPaddress>
+
+            <VMName>VDI3</VMName>
+
+          </VM>
+
+          <VM moref="vm-1040">
+
+            <Vdisk diskcount="2" />
+
+            <Disk ID="0" Path="E:\" Capacity="4292546560" Freespace="3168509952" />
+
+            <Disk ID="1" Path="C:\" Capacity="34252779520" Freespace="23512911872" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>VDI2.demo.local</FQDN>
+
+            <IPaddress>192.168.2.11</IPaddress>
+
+            <VMName>VDI2</VMName>
+
+          </VM>
+
+          <VM moref="vm-471">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="42842714112" Freespace="31154724864" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>View5-SS.demo.local</FQDN>
+
+            <IPaddress>192.168.1.80</IPaddress>
+
+            <VMName>ViewSS-51</VMName>
+
+          </VM>
+
+          <VM moref="vm-357">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="10725732352" Freespace="5254950912" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>Exch2003.demo.local</FQDN>
+
+            <IPaddress>192.168.1.62</IPaddress>
+
+            <VMName>Exchange2003 (a1bdb92b-904b-4103-8218-ce0206f62ed3)</VMName>
+
+          </VM>
+
+          <VM moref="vm-720">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="53580132352" Freespace="35406708736" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>View5CS-int.demo.local</FQDN>
+
+            <IPaddress>192.168.1.82</IPaddress>
+
+            <VMName>ViewCS-Internal</VMName>
+
+          </VM>
+
+          <VM moref="vm-965">
+
+            <Vdisk diskcount="2" />
+
+            <Disk ID="0" Path="/" Capacity="7256670208" Freespace="5601824768" />
+
+            <Disk ID="1" Path="/boot" Capacity="134029312" Freespace="112474112" />
+
+            <GuestState>toolsOld</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>connector-va.demo.local</FQDN>
+
+            <IPaddress>192.168.50.13</IPaddress>
+
+            <VMName>connector-va</VMName>
+
+          </VM>
+
+          <VM moref="vm-1032">
+
+            <VMName>replica-b4c67bc6-e9b3-4c22-9471-f05ce9af44b2</VMName>
+
+          </VM>
+
+          <VM moref="vm-915">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="/" Capacity="19058782208" Freespace="17307369472" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>Flex-IO-vcd-srv74</FQDN>
+
+            <IPaddress>172.16.0.3</IPaddress>
+
+            <VMName>Flex-IO-vcd-srv74</VMName>
+
+          </VM>
+
+          <VM moref="vm-329">
+
+            <VMName>Exchange2003 (c7273b17-afcb-4674-acd2-4eecb1091647)</VMName>
+
+          </VM>
+
+          <VM moref="vm-1038">
+
+            <VMName>VDI5</VMName>
+
+          </VM>
+
+          <VM moref="vm-61">
+
+            <VMName>Win7Template</VMName>
+
+          </VM>
+
+          <VM moref="vm-964">
+
+            <Vdisk diskcount="4" />
+
+            <Disk ID="0" Path="/" Capacity="4236754944" Freespace="2191843328" />
+
+            <Disk ID="1" Path="/boot" Capacity="134029312" Freespace="112474112" />
+
+            <Disk ID="2" Path="/opt/vmware/horizon" Capacity="3019943936" Freespace="2749575168" />
+
+            <Disk ID="3" Path="/db" Capacity="10567868416" Freespace="10309279744" />
+
+            <GuestState>toolsOld</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>service-va.demo.local</FQDN>
+
+            <IPaddress>192.168.50.12</IPaddress>
+
+            <VMName>service-va</VMName>
+
+          </VM>
+
+          <VM moref="vm-969">
+
+            <VMName>datava-template</VMName>
+
+          </VM>
+
+          <VM moref="vm-1037">
+
+            <VMName>VDI4</VMName>
+
+          </VM>
+
+          <VM moref="vm-659">
+
+            <Vdisk diskcount="2" />
+
+            <Disk ID="0" Path="/" Capacity="296497152" Freespace="0" />
+
+            <Disk ID="1" Path="/var/log" Capacity="25379840" Freespace="21976064" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily></GuestFamily>
+
+            <FQDN>vse-06e541dc-7e19-4006-8714-a5abb6f4e882-0</FQDN>
+
+            <IPaddress></IPaddress>
+
+            <VMName>vse-Isolated 192.168 Network (06e541dc-7e19-4006-8714-a5abb6f4e882)-0</VMName>
+
+          </VM>
+
+          <VM moref="vm-724">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="53387194368" Freespace="39691300864" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>View5-CS.demo.local</FQDN>
+
+            <IPaddress>192.168.1.81</IPaddress>
+
+            <VMName>View-CS-Primary</VMName>
+
+          </VM>
+
+          <VM moref="vm-330">
+
+            <VMName>DomainController (ed6d827f-4e67-43de-b839-af61b9267184)</VMName>
+
+          </VM>
+
+          <VM moref="vm-963">
+
+            <VMName>configurator-va</VMName>
+
+          </VM>
+
+          <VM moref="vm-967">
+
+            <Vdisk diskcount="3" />
+
+            <Disk ID="0" Path="/" Capacity="4237803520" Freespace="2997391360" />
+
+            <Disk ID="1" Path="/boot" Capacity="134029312" Freespace="112474112" />
+
+            <Disk ID="2" Path="/opt/vmware/nginx" Capacity="5132554240" Freespace="4968988672" />
+
+            <GuestState>toolsOld</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>gateway-va.demo.local</FQDN>
+
+            <IPaddress>192.168.50.10</IPaddress>
+
+            <VMName>gateway-va</VMName>
+
+          </VM>
+
+        </Host>
+
+      </Cluster>
+
+      <Cluster moref="domain-c7">
+
+        <ClusterName>Manage-Cluster</ClusterName>
+
+        <HostCount>1</HostCount>
+
+        <Host moref="host-10">
+
+          <HostName>esx-manage.demo.local</HostName>
+
+          <VM moref="vm-846">
+
+            <VMName>Flex-IO-Manager</VMName>
+
+          </VM>
+
+          <VM moref="vm-462">
+
+            <VMName>vPlanet</VMName>
+
+          </VM>
+
+          <VM moref="vm-554">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="34252779520" Freespace="14974537728" />
+
+            <GuestState>toolsNotRunning</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>PlexMedia</FQDN>
+
+            <IPaddress>192.168.1.14</IPaddress>
+
+            <VMName>PlexMedia</VMName>
+
+          </VM>
+
+          <VM moref="vm-16">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="64317550592" Freespace="35232509952" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>vc51.demo.local</FQDN>
+
+            <IPaddress>192.168.1.90</IPaddress>
+
+            <VMName>VC51</VMName>
+
+          </VM>
+
+          <VM moref="vm-670">
+
+            <VMName>FlexIOTest</VMName>
+
+          </VM>
+
+          <VM moref="vm-461">
+
+            <VMName>HomeServer</VMName>
+
+          </VM>
+
+          <VM moref="vm-164">
+
+            <VMName>DC</VMName>
+
+          </VM>
+
+          <VM moref="vm-813" />
+
+          <VM moref="vm-15">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="64416116736" Freespace="42083954688" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>dc-srv1.demo.local</FQDN>
+
+            <IPaddress>192.168.1.10</IPaddress>
+
+            <VMName>DC-srv1</VMName>
+
+          </VM>
+
+          <VM moref="vm-843">
+
+            <VMName>vCB</VMName>
+
+          </VM>
+
+          <VM moref="vm-384">
+
+            <VMName>ProfileUnity</VMName>
+
+          </VM>
+
+          <VM moref="vm-911">
+
+            <VMName>Flex-IO-esx-manage</VMName>
+
+          </VM>
+
+          <VM moref="vm-1024">
+
+            <Vdisk diskcount="3" />
+
+            <Disk ID="0" Path="/" Capacity="12677464064" Freespace="9617129472" />
+
+            <Disk ID="1" Path="/storage/log" Capacity="7398219776" Freespace="7226068992" />
+
+            <Disk ID="2" Path="/storage/db" Capacity="8454070272" Freespace="8217612288" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>vcac6.demo.local</FQDN>
+
+            <IPaddress>192.168.20.3</IPaddress>
+
+            <VMName>VMware vCAC Appliance</VMName>
+
+          </VM>
+
+          <VM moref="vm-568">
+
+            <VMName>Backup-Srv</VMName>
+
+          </VM>
+
+          <VM moref="vm-1020">
+
+            <VMName>backup of vCAC6IaaS</VMName>
+
+          </VM>
+
+          <VM moref="vm-830">
+
+            <Vdisk diskcount="3" />
+
+            <Disk ID="0" Path="/" Capacity="8306683904" Freespace="6357725184" />
+
+            <Disk ID="1" Path="/boot" Capacity="135378944" Freespace="116793344" />
+
+            <Disk ID="2" Path="/data" Capacity="126823141376" Freespace="126173974528" />
+
+            <GuestState>toolsNotRunning</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>vcac.demo.local</FQDN>
+
+            <IPaddress>192.168.1.65</IPaddress>
+
+            <VMName>UI VM</VMName>
+
+          </VM>
+
+          <VM moref="vm-254">
+
+            <Vdisk diskcount="2" />
+
+            <Disk ID="0" Path="/" Capacity="47811837952" Freespace="41861562368" />
+
+            <Disk ID="1" Path="/boot" Capacity="103512064" Freespace="82845696" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>vcd-cell1.demo.local</FQDN>
+
+            <IPaddress>192.168.1.63</IPaddress>
+
+            <VMName>VCD-CELL1</VMName>
+
+          </VM>
+
+          <VM moref="vm-1017">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="53580132352" Freespace="31154008064" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>VCAC6IAAS.demo.local</FQDN>
+
+            <IPaddress>192.168.20.1</IPaddress>
+
+            <VMName>vCAC6IAAS</VMName>
+
+          </VM>
+
+          <VM moref="vm-652">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="/" Capacity="4743544832" Freespace="2696941568" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>vc0.demo.local</FQDN>
+
+            <IPaddress>192.168.1.96</IPaddress>
+
+            <VMName>VMware vCenter Orchestrator Appliance</VMName>
+
+          </VM>
+
+          <VM moref="vm-246">
+
+            <Vdisk diskcount="1" />
+
+            <Disk ID="0" Path="C:\" Capacity="42842714112" Freespace="16025747456" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>windowsGuest</GuestFamily>
+
+            <FQDN>sql.demo.local</FQDN>
+
+            <IPaddress>192.168.1.95</IPaddress>
+
+            <VMName>SQL</VMName>
+
+          </VM>
+
+          <VM moref="vm-26">
+
+            <Vdisk diskcount="2" />
+
+            <Disk ID="0" Path="/flash" Capacity="1623078912" Freespace="1538430976" />
+
+            <Disk ID="1" Path="/var" Capacity="14899058688" Freespace="12239568896" />
+
+            <GuestState>toolsNotRunning</GuestState>
+
+            <GuestFamily>otherGuestFamily</GuestFamily>
+
+            <FQDN>NetScaler.demo.local</FQDN>
+
+            <IPaddress></IPaddress>
+
+            <VMName>NSVPX-ESX</VMName>
+
+          </VM>
+
+          <VM moref="vm-722" />
+
+          <VM moref="vm-553">
+
+            <VMName>VCAC</VMName>
+
+          </VM>
+
+          <VM moref="vm-831">
+
+            <Vdisk diskcount="3" />
+
+            <Disk ID="0" Path="/" Capacity="8306683904" Freespace="6378156032" />
+
+            <Disk ID="1" Path="/boot" Capacity="135378944" Freespace="116793344" />
+
+            <Disk ID="2" Path="/data" Capacity="211374759936" Freespace="209138819072" />
+
+            <GuestState>toolsNotRunning</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>localhost.localdom</FQDN>
+
+            <IPaddress>192.168.1.66</IPaddress>
+
+            <VMName>Analytics VM</VMName>
+
+          </VM>
+
+          <VM moref="vm-25">
+
+            <Vdisk diskcount="2" />
+
+            <Disk ID="0" Path="/" Capacity="6055784448" Freespace="4862996480" />
+
+            <Disk ID="1" Path="/common" Capacity="46997999616" Freespace="45954445312" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily></GuestFamily>
+
+            <FQDN>manager</FQDN>
+
+            <IPaddress>192.168.1.53</IPaddress>
+
+            <VMName>vShield Manager</VMName>
+
+          </VM>
+
+          <VM moref="vm-932" />
+
+          <VM moref="vm-1023">
+
+            <Vdisk diskcount="3" />
+
+            <Disk ID="0" Path="/" Capacity="4217176064" Freespace="2955223040" />
+
+            <Disk ID="1" Path="/storage/db" Capacity="1056858112" Freespace="1020952576" />
+
+            <Disk ID="2" Path="/storage/log" Capacity="4226482176" Freespace="4078157824" />
+
+            <GuestState>toolsOk</GuestState>
+
+            <GuestFamily>linuxGuest</GuestFamily>
+
+            <FQDN>vcacID.demo.local</FQDN>
+
+            <IPaddress>192.168.20.2</IPaddress>
+
+            <VMName>VMware Identity Appliance</VMName>
+
+          </VM>
+
+          <VM moref="vm-463">
+
+            <VMName>VS2010 on Windows 7 x64</VMName>
+
+          </VM>
+
+        </Host>
+
+      </Cluster>
+
+    </Folder>
+
+    <DCname DCname="DemoDC" />
+
+  </Datacenter>
+
+</vcenter>
